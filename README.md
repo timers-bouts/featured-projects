@@ -1,7 +1,7 @@
 # Portfolio Projects
 
 ## 🚀 Featured
-- [Game of Thrones Death Prediction](https://github.com/yourusername/got-death-prediction)  
+- [Game of Thrones Death Prediction](https://github.com/timers-bouts/got-death-prediction)  
   ML pipeline on nested JSON datasets; engineered features and handled severe class imbalance.
 
 - [Expense Tracker Web App](https://github.com/yourusername/expense-tracker)  
