@@ -1,5 +1,6 @@
 # Portfolio Projects
 
 ## 🚀 Featured
-- [Game of Thrones Death Prediction](https://github.com/timers-bouts/got-death-prediction)  
-  ML pipeline on nested JSON datasets; engineered features and handled severe class imbalance.
+
+- [Telemetry Capston](https://github.com/timers-bouts/telemetry-capstone)
+  A C++20 binary telemetry system for simulating, recording, replaying, and exporting sensor data streams.
