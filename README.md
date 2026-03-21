@@ -7,3 +7,6 @@
 
 - [Game of Thrones Death Prediction](https://github.com/timers-bouts/got-death-prediction)
   A three-tier machine learning pipeline to predict character survival and scene-level deaths from nested JSON episode and character data sourced from a crowd-sourced GoT dataset.
+
+- [Pedestrian Crowd Dynamics — Social Force Model](https://github.com/timers-bouts/social-force-model)
+  A simulation of pedestrian crowd behavior based on the social force model of Helbing & Molnár (1995).
